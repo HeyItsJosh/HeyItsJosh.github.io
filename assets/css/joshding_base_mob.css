@@ -1,0 +1,46 @@
+@media (max-width:768px){
+	.jd-intro-pane{
+		display:none;
+	}
+
+	.jd-mobile-intro-pane{
+		width:100%;
+		height:100vh;
+	}
+	
+	.jd-blue-gray-container{
+		width:100%;
+		height:100%;
+		background-color:#56616F;
+	}
+}
+
+.jd-intro-pane-content-driver{
+	width:70%;
+	margin:30% 15% 0 15%;
+	font-size:30px;
+	font-family: Georgia, serif;
+	color:#FFFFFF;
+	font-weight:500;
+}
+
+.jd-lead-content-center-driver{
+	color:#FFFFFF;
+	font-family: Georgia, serif;
+	margin: 150px 10% 150px 10%;
+}
+
+h4.jd-lead-header{
+	font-family: 'Source Sans Pro', sans-serif;
+	text-transform:uppercase;
+	font-weight:600;
+	font-size:14px;
+	letter-spacing:1px;
+}
+
+p.jd-lead-content{
+	padding:10px 0 10px 0;
+	font-size:12px;
+	line-height:1.75em;
+	font-style:italic;
+}
