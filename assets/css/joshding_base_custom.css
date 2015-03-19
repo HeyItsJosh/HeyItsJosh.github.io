@@ -36,10 +36,12 @@ img .menu_icon{
 	margin:20px 0px 0px 0px;
 }
 
-.navbar_left_alt{
-	width:120px;
-	float:left;
-	margin:2.5% 0 0 2.5%;
+@media (min-width:768px){
+	.navbar_left_alt{
+		width:120px;
+		float:left;
+		margin:2.5% 0 0 2.5%;
+	}
 }
 
 .navbar_right_alt{
@@ -246,9 +248,11 @@ p.jd-lead-content{
 	text-align:center;
 }
 
-.jd-portfolio-intro-pane{
-	width:100%;
-	min-height:65vh;
+@media (min-width:768px){
+	.jd-portfolio-intro-pane{
+		width:100%;
+		min-height:65vh;
+	}
 }
 
 .jd-portfolio-intro-pane-content-driver{
