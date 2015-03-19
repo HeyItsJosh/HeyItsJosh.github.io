@@ -13,6 +13,18 @@
 		height:100%;
 		background-color:#56616F;
 	}
+	
+	.navbar_left_alt{
+		position:absolute;
+		width:120px;
+		float:left;
+		margin:2.5% 0 0 2.5%;
+	}
+	
+	.jd-portfolio-intro-pane{
+		width:100%;
+		min-height:100vh;
+	}
 }
 
 .jd-intro-pane-content-driver{
